@@ -7,7 +7,7 @@ Este é um aplicativo simples de Lista de Músicas desenvolvido em React Native.
 - Adicionar uma nova música com título e cantor(a).
 - Editar uma música existente.
 - Excluir uma música da lista.
-- Pesquisar músicas na lista.
+- Pesquisar músicas pelo título na lista.
 
 ## Pré-requisitos
 
